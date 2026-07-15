@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://void-03-modular-62.aura.build/sitemap.xml
